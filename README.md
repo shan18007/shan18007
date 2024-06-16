@@ -1,4 +1,4 @@
-![logo](https://github.com/shan18007/shan18007/blob/main/banner.png)
+![logo](https://github.com/shan18007/shan18007/blob/main/github-banner.png)
 <h1 align="center">Hi 👋, I'm Shantanu Belankar</h1>
 <h3 align="center">Professional Java Full-Stack Developer.</h3>
 
